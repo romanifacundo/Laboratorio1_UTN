@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683251458 source:c:\facundo\programación\tecnicatura\utn - frsn\laboratorio 1\ejerciciosdecadenas\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+

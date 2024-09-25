@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1687398597 source:c:\users\facun\onedrive - frsn.utn.edu.ar\utn - frsn\laboratorio 1\practicaparcial2-labo1\practicaparcial2_labo1\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+

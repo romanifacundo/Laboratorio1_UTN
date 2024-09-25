@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683911349 source:c:\facundo\programación\tecnicatura\utn - frsn\laboratorio 1\practicaparcial1_labo1\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
